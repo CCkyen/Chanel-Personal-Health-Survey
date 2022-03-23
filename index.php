@@ -14,6 +14,8 @@
 <body>
   <?php include 'Inc/header.php' ?>
   <?php include 'data-collector.php' ?>
+  <?php include 'error-types.php'?>
+
 
   <div class="title-index">
     <p id="titleh">SURVEY ON NUTRITION, FITNESS AND SPORT </p>
@@ -51,7 +53,6 @@
 
   </div>
   <?php include 'Inc/footer.php' ?>
-
 
 </body>
 
